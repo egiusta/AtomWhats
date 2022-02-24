@@ -8,6 +8,6 @@ module.exports = async (collection) => {
   });
   return {
     conn,
-    coll: conn.db("whatsbot").collection(collection),
+    coll: conn.db("atomwhats").collection(collection),
   };
 };
