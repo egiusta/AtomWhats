@@ -123,7 +123,7 @@ client.on("disconnected", (reason) => {
 
 app.get("/", (req, res) => {
   res.send(
-    '<h1>This server is powered by Whatsbot<br><a href="https://github.com/egiusta/AtomWhats">https://github.com/egiusta/AtomWhats</a></h1>'
+    '<h1>This server is powered by AtomWhats<br><a href="https://github.com/egiusta/AtomWhats">https://github.com/egiusta/AtomWhats</a></h1>'
   );
 });
 
