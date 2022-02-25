@@ -108,5 +108,5 @@ Whatsbot is fully depended on it's community, Feel free to open a PR if you adde
 
 ### Connect :
 
-- [Channel](https://telegram.dog/whatsbotnews)
-- [Support Group](https://telegram.dog/whatsbotsupport)
+- [Channel](https://t.me/atomdev)
+- [Support Group](https://t.me/atomdestek)
